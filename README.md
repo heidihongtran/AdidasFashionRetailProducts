@@ -5,3 +5,4 @@ About this dataset: This dataset contains information on over 1500+ Adidas fashi
 
 Data source: https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod
 
+METHODS: We use R to clean data, make statistical analysis, and visualize the data. 
